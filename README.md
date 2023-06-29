@@ -30,7 +30,7 @@ Recebe um número e imprime "F1", se o número for menor ou igual a 10; "F2", se
 Recebe a altura em metros de uma pessoa e seu sexo (codificado através do número 1 para masculino e 2 para feminino), calculando seu peso ideal utilizando fórmulas pré-definidas (para homens: (72.7 * Altura) - 58 e para mulheres: (62.1 * Altura) - 44.7).
 ### Triângulo
 Recebe três segmentos de reta identificados com 'a', 'b' e 'c', se (a+b > c) e (a+c > b) e (b+c > a), podem formar um triângulo, então, será impresso "Pode ser um triangulo", caso contrário, imprime "Nao pode ser um triangulo".
-#### Aposentadoria
+### Aposentadoria
 Recebe o ano de nascimento de um funcionário e seu tempo trabalhado, caso ele tenha no mínimo 65 anos de idade ou tenha trabalhado no mínimo 30 anos ou ainda tenha no mínimo 60 anos e tenha trabalhado no mínimo 25 anos, será impresso sua idade, seu tempo trabalhado e "Requerer aposentadoria", caso não corresponda às condições será impresso sua idade, seu tempo trabalhado e "Nao requerer".
 
 ## Ainda em atualização
