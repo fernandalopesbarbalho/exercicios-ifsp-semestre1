@@ -33,4 +33,16 @@ Recebe três segmentos de reta identificados com 'a', 'b' e 'c', se (a+b > c) e 
 ### Aposentadoria
 Recebe o ano de nascimento de um funcionário e seu tempo trabalhado, caso ele tenha no mínimo 65 anos de idade ou tenha trabalhado no mínimo 30 anos ou ainda tenha no mínimo 60 anos e tenha trabalhado no mínimo 25 anos, será impresso sua idade, seu tempo trabalhado e "Requerer aposentadoria", caso não corresponda às condições será impresso sua idade, seu tempo trabalhado e "Nao requerer".
 
+## Exercícios While - 18/04/23
+### Fatorial
+Recebe um número e calcula seu fatorial.
+### Fahrenheit
+Recebe uma temperatura em graus Fahrenheit e imprime o equivalente em graus Celsius, isso ocorre repetidamente até que seja informada uma temperatura abaixo do zero absoluto, que é -459,67°F.
+### Divisões Sucessivas
+Recebe um número e o divide por dois sucessivamente até que o resultado seja menor que 1. Imprime o resultado da última divisão e a quantidade de divisões realizadas.
+### Maior e Menor
+Recebe cinco números entre 0 e 1000 e imprime o maior e o menor número digitado.
+### Alunos e Altura
+Recebe a idade e altura (em metros) de uma turma de alunos e termina quando é digitada uma idade igual a zero. O programa imprime três frases em linhas distintas: A primeira referente a quantidade de alunos na classe; A segunda referente a idade média dos alunos com menos de 1,70m ou se não houver alunos nessa condição, imprime que não há alunos com menos de 1,70m; A terceira referente a altura média dos alunos com mais de 20 anos, caso não houver alunos nessa condição, imprime que não há alunos com mais de 20 anos. 
+
 ## Ainda em atualização
