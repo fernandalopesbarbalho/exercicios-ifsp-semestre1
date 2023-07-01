@@ -45,4 +45,15 @@ Recebe cinco números entre 0 e 1000 e imprime o maior e o menor número digitad
 ### Alunos e Altura
 Recebe a idade e altura (em metros) de uma turma de alunos e termina quando é digitada uma idade igual a zero. O programa imprime três frases em linhas distintas: A primeira referente a quantidade de alunos na classe; A segunda referente a idade média dos alunos com menos de 1,70m ou se não houver alunos nessa condição, imprime que não há alunos com menos de 1,70m; A terceira referente a altura média dos alunos com mais de 20 anos, caso não houver alunos nessa condição, imprime que não há alunos com mais de 20 anos. 
 
+
+## Exercícios While parte 2 - 25/04/23
+### Soma dos Quadrados
+Recebe um número e calcula a soma dos quadrados primeiros números inteiros, começando em 1 até o número informado e imprime a soma.
+### Média de Idades
+Recebe idades até que seja informado um número negativo e imprime sua média.
+### Pessoa mais Pesada
+Recebe a altura e o peso de 5 pessoas e imprime qual a pessoa mais pesada e a altura dela.
+### Sequência de Fibonacci
+Recebe um número (maior ou igual a dois) e imprime a quantidade de termos na sequência correspondente ao número informado.
+
 ## Ainda em atualização
