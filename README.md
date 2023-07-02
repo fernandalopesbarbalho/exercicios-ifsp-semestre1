@@ -56,4 +56,14 @@ Recebe a altura e o peso de 5 pessoas e imprime qual a pessoa mais pesada e a al
 ### Sequência de Fibonacci
 Recebe um número (maior ou igual a dois) e imprime a quantidade de termos na sequência correspondente ao número informado.
 
+## Avaliação While - 02/05/23
+### Tabuada
+Recebe um número e imprime sua tabuada.
+### Ingresso
+Recebe as idades e imprime o preço de seus ingressos, se uma pessoa tiver menos de 3 anos de idade, o ingresso será gratuito, se tiver entre 3 e 12 anos, o ingresso custará 10 reais, se tiver 13 anos ou mais, o ingresso custará 15 reais. Ao digitarem uma idade negativa, imprime o total arrecadado e o número de ingressos vendidos de cada tipo.
+### Pesquisa Salarial
+Recebe a idade, sexo e salário dos participantes, quando for digitada uma idade negativa é impresso a média salarial do grupo, maior e a menor idade do grupo e a quantidade de mulheres com salário até R$ 1000,00.
+
+## Trabalho Estruturas de Repetição
+
 ## Ainda em atualização
