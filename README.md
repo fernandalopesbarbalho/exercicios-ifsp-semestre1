@@ -64,4 +64,10 @@ Recebe as idades e imprime o preço de seus ingressos, se uma pessoa tiver menos
 ### Pesquisa Salarial
 Recebe a idade, sexo e salário dos participantes, quando for digitada uma idade negativa é impresso a média salarial do grupo, maior e a menor idade do grupo e a quantidade de mulheres com salário até R$ 1000,00.
 
+## Trabalho Estruturas de Repetição - 09/05/23
+### Dez Números
+### Natalidade
+### Triângulo de Floyd
+### Número Primo
+
 ## Ainda em atualização
