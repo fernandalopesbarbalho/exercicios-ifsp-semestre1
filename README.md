@@ -66,8 +66,12 @@ Recebe a idade, sexo e salário dos participantes, quando for digitada uma idade
 
 ## Trabalho Estruturas de Repetição - 09/05/23
 ### Dez Números
+Recebe 10 números inteiros e imprime a quantidade de números digitados maiores ou igual a 0, a quantidade de números digitados menores que 0, a soma de todos os números digitados maiores que zero e a soma dos números digitados menores que zero.
 ### Natalidade
+Programa que calcula o tempo necessário para que a população do país A ultrapasse a população do país B, sendo que o país A, com 5.000.000 de habitantes tem uma taxa de natalidade de 3% ao ano, e o país B com 7.000.000 de habitantes tem taxa de natalidade de 2% ao ano.
 ### Triângulo de Floyd
+Recebe um número inteiro positivo e imprime a quantidade de linhas correspondente ao número do chamado Triângulo de Floyd.
 ### Número Primo
+Recebe um número inteiro e positivo e imprime se esse número é primo ou não.
 
 ## Ainda em atualização
