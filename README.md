@@ -74,4 +74,14 @@ Recebe um número inteiro positivo e imprime a quantidade de linhas corresponden
 ### Número Primo
 Recebe um número inteiro e positivo e imprime se esse número é primo ou não.
 
+## Atividade Função - 22/05/23
+### Função Nota
+Recebe a média final de um aluno e retorna seu conceito, sendo 'D' de 0,0 a 4,9, 'C' de 5,0 a 6,9, 'B' de 7,0 a 8,9 e 'A' de 9,0 a 10,0.
+### Função Potência
+Recebe dois números inteiros, sendo a base e o expoente (que deve ser maior ou igual a 1) e retorna a potenciação.
+### Função Idade
+Recebe a idade de uma pessoa em anos, meses e dias e retorna a idade total em dias.
+### Função Fatorial
+Recebe um número e retorna seu fatorial.
+
 ## Ainda em atualização
