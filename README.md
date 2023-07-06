@@ -84,4 +84,51 @@ Recebe a idade de uma pessoa em anos, meses e dias e retorna a idade total em di
 ### Função Fatorial
 Recebe um número e retorna seu fatorial.
 
+## Exercícios Funções parte 2 - 23/05/23
+### Função Coordenadas
+Recebe duas coordenadas cartesianas x e y e retorna a distância até a origem (√(x^2 + y^2)).
+### Função Peso Ideal
+Recebe a altura e o sexo da pessoa ('M' ou 'F') e retorna seu peso ideal, sendo calculado para homens = 72,7 x altura - 58 e para mulheres = 62,1 x altura - 44,7.
+### Menor que Zero
+Programa que recebe um número menor que zero e calcula a série 1/1^2 + 1/2^2 + 1/3^2 + 1/4^2 + ... até que o termo (cada parcela da soma) seja menor que o número digitado. Imprime o número de termos somados e a soma da série.
+
+## Exercícios Funções parte 3 - 30/05/23
+### Função Economia
+Recebe o preço do produto que será comprado, o quanto a pessoa tem na poupança, quanto a poupança rende e quanto sobra do salário por mês, retorna o número meses a pessoa terá que poupar apara comprar o item que deseja.
+### Função Fibonacci 
+Recebe um número inteiro e retorna qual o valor na Sequência de Fibonacci corresponde a posição dada.
+### Função Massa Radioativa
+Recebe um número correspondente ao peso de uma massa radioativa, sendo que o material perde metade de sua massa a cada 50 segundos, retorna a quantidade de segundos que essa massa se torne menor que 0,5 gramas.
+
+## Exercícios Vetores - 06/06/23
+### Soma do Vetor
+Recebe 12 números que serão armazenados no vetor e 2 posições, imprime a soma dos dois números que se encontram nas posições indicadas.
+### Vetor de Ímpares
+Imprime os 10 primeiros ímpares e suas posições no vetor.
+### Contar String
+Um vetor é inicializado com a palavra "algoritmos" e imprime quantos caracteres a string tem sem utilizar a função strlen().
+### String Inversa
+Um vetor é inicializado com a palavra "algoritmos" e imprime a string ao contrário caractere por caractere.
+
+## Trabalho Frigorifrico - 08/06/23
+### Realizado em dupla com [Maria Eduarda Melim](https://github.com/dudelim).
+Você foi contratado para desenvolver um software para um frigorífico. O sistema deve efetuar o controle de idade e peso dos animais recebidos e quando chegar no final do dia um relatório com algumas informações deverá ser apresentado.
+O sistema deverá possuir:
+1. Ao iniciar o sistema o usuário deverá informar o preço da arroba do boi naquele dia.
+2. Em seguida, deve ser mostrado, repetidamente, um menu para o usuário, com as seguintes opções:
+  1. Inserir os dados de um animal
+  2. Finalizar o lançamento
+  3. Reset (Deverá reiniciar os valores inseridos)
+  4. Sair
+3. Se for digitada a primeira opção, as informações fornecidas de cada animal serão o número de identificação do animal, o  peso (em quilos) e a idade em meses. Atenção com o tipo de dados utilizados.
+4. O relatório que será apresentado ao finalizar o lançamento deverá possuir as informações:
+  1. O total de peso dos animais recebidos
+  2. A identificação, o peso e a idade do animal mais pesado
+  3. A identificação, o peso e a idade do animal mais leve
+  4. A idade e peso do animal mais velho
+  5. A idade e peso do animal mais novo
+  6. A média de peso dos animais
+  7. A média de idade dos animais
+  8. O preço total do lote. Para exibir o preço total do lote você deverá converter o peso de quilo para arroba, lembrando que uma arroba corresponde a 15 quilos.
+
 ## Ainda em atualização
