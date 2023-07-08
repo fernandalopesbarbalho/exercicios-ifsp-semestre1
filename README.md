@@ -131,4 +131,16 @@ O sistema deverá possuir:
   7. A média de idade dos animais
   8. O preço total do lote. Para exibir o preço total do lote você deverá converter o peso de quilo para arroba, lembrando que uma arroba corresponde a 15 quilos.
 
+## Exercícios Vetores - 17/06/23
+### Função Números Pares
+Recebe como parâmetro um vetor de números inteiros e um número inteiro que é a quantidade de elementos do vetor, retorna a quantidade de números pares.
+### Double Maior que Média
+Recebe cinco números em ponto flutuante, calcula sua média e imprime os maiores que ela.
+### Vetor sem Repetir
+Recebe seis números e imprime sem duplicatas.
+### Vetor de Repetidos
+Recebe seis números, conta quantas vezes eles se repetem e imprime essa quantidade na posição correspondente.
+### Função Palíndromo
+Recebe uma palavra em um vetor de caracteres e verifica se é um palíndromo. Se sim, imprime '1', caso contrário, imprime '0'.
+
 ## Ainda em atualização
