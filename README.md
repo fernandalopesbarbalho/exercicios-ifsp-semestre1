@@ -143,4 +143,14 @@ Recebe seis números, conta quantas vezes eles se repetem e imprime essa quantid
 ### Função Palíndromo
 Recebe uma palavra em um vetor de caracteres e verifica se é um palíndromo. Se sim, imprime '1', caso contrário, imprime '0'.
 
+## Revisão Funções e Vetores - 20/06/23
+### Função Tempo Segundos
+Recebe como parâmetro um número inteiro que representa a quantidade de horas e outro a quantidade de minutos, retorna o tempo em segundos.
+### Função Temperatura Baixa
+Recebe como parâmetro um vetor que representa as temperaturas dos dias de uma semana, calcula a média das delas e retorna a quantidade de dias que a temperatura ficou abaixo da média.
+### Polinômio
+Recebe seis coeficientes reais de um polinômio p(x) = x + x^1 + x^2 + x^3 + x^4 + x^5 e armazena em um vetor. Em seguida, recebe o valor de x, calcula e imprime o valor do polinômio até que seja digitado '0' para o valor de x.
+### Maior Soma Sequência
+Recebe uma sequência de inteiros até 15 números ou até que seja digitado '999'. Armazena em um vetor e procura o trecho de 4 números que tenha a maior soma possível. Imprime a soma e o número da posição que se inicia o trecho (índice).
+
 ## Ainda em atualização
