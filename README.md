@@ -153,4 +153,8 @@ Recebe seis coeficientes reais de um polinômio p(x) = x + x^1 + x^2 + x^3 + x^4
 ### Maior Soma Sequência
 Recebe uma sequência de inteiros até 15 números ou até que seja digitado '999'. Armazena em um vetor e procura o trecho de 4 números que tenha a maior soma possível. Imprime a soma e o número da posição que se inicia o trecho (índice).
 
+## Prova Final - 27/06/23
+### Poder Frota
+### Função Segundo Maior
+
 ## Ainda em atualização
