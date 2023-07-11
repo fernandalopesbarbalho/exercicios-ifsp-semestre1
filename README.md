@@ -1,6 +1,8 @@
 # Exercícios de Programação em C
 Códigos em linguagem C produzidos em atividades, exercícios e trabalhos durante o primeiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Algoritmos e Programação.
 
+As demais aulas do semestre e seus temas estão melhor descritas no repositório [Aulas de Programação em C](https://github.com/fernandalopesbarbalho/aulas-ifsp-semestre1/tree/main).
+
 ## Exercícios de Tipos, Operadores e Variáveis - 28/03/23
 ### Antecessor
 Recebe um número inteiro e calcula seu antecessor.
