@@ -154,9 +154,12 @@ Recebe seis coeficientes reais de um polinômio p(x) = x + x^1 + x^2 + x^3 + x^4
 Recebe uma sequência de inteiros até 15 números ou até que seja digitado '999'. Armazena em um vetor e procura o trecho de 4 números que tenha a maior soma possível. Imprime a soma e o número da posição que se inicia o trecho (índice).
 
 ## Prova Final - 27/06/23
-### Poder Frota
-### Jogo da Forca
+### Função Poder Frota
+Recebe como parâmetro um vetor de inteiros representando as naves de uma frota (que pode ter no máximo 10 naves ou, caso menor, informar o valor '0' no fim da frota) e calcula o poder total da frota, sabendo que o poder de uma nave é dado pelo valor do número elevado à sua posição no vetor (base 1). Retorna a soma dos poderes individuais de cada nave.
+### Função Jogo da Forca
+Recebe como parâmetro a letra palpite, a palavra secreta e uma string de resultado, que tem o mesmo comprimento da palavra secreta, e vem inicialmente preenchida com sublinhados. A função procura a letra palpite na palavra secreta e para cada ocorrência, preenche a posição correspondente no resultado com a letra. Retorna quantas vezes a letra foi encontrada e sua posição.
 ### Função Segundo Maior
+Recebe como parâmetro um vetor de inteiros e seu tamanho, retorna o segundo maior elemento presente no vetor.
 
 ## Matrizes - 04/07/23
 ### Quadrado Mágico
