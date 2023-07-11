@@ -1,5 +1,5 @@
 # Exercícios de Programação em C
-Códigos em linguagem C produzidos em atividades, exercícios e trabalhos durante o primeiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Algoritmos e Programação.
+Códigos em linguagem C produzidos para entrega em atividades, exercícios e trabalhos durante o primeiro semestre de Análise e Desenvolvimento de Sistemas (IFSP), referente à matéria de Algoritmos e Programação.
 
 As demais aulas do semestre e seus temas estão melhor descritas no repositório [Aulas de Programação em C](https://github.com/fernandalopesbarbalho/aulas-ifsp-semestre1/tree/main).
 
