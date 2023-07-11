@@ -1,10 +1,4 @@
-// Faça uma pesquisa entre os habitantes de uma região. Pergunte "Idade: ",
-// "Sexo 1=F 2=M: " e "Salario:\n" (Note o "\n" só após o salário). Faça um
-// programa que pergunte os dados ao usuário na ordem acima e informe: 1. a
-// média salarial do grupo, em formato "%g" 2. a maior e a menor idade do
-// grupo 3. a quantidade de mulheres com salário até R$ 1000,00. Encerre a
-// entrada de dados quando for digitada uma idade negativa. Use as mensagens e o
-// formato dos exemplos Obs: M significa "Masculino" e não "Mulher
+//Faça uma pesquisa entre os habitantes de uma região. Pergunte "Idade: ", "Sexo 1=F 2=M: " e "Salario:\n" (Note o "\n" só após o salário). Faça um programa que pergunte os dados ao usuário na ordem acima e informe: 1. a média salarial do grupo, em formato "%g" 2. a maior e a menor idade do grupo 3. a quantidade de mulheres com salário até R$ 1000,00. Encerre a entrada de dados quando for digitada uma idade negativa. Obs: M significa "Masculino" e não "Mulher
 
 #include <stdio.h>
 
