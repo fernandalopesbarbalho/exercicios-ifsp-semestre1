@@ -155,6 +155,10 @@ Recebe uma sequência de inteiros até 15 números ou até que seja digitado '99
 
 ## Prova Final - 27/06/23
 ### Poder Frota
+### Jogo da Forca
 ### Função Segundo Maior
+
+## Matrizes - 04/07/23
+### Quadrado Mágico
 
 ## Ainda em atualização
