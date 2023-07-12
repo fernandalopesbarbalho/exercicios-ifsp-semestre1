@@ -164,6 +164,5 @@ Recebe como parâmetro a letra palpite, a palavra secreta e uma string de result
 Recebe como parâmetro um vetor de inteiros e seu tamanho, retorna o segundo maior elemento presente no vetor.
 
 ## Questão Matriz - 04/07/23
-### Quadrado Mágico
-
-## Ainda em atualização
+### Função Quadrado Mágico
+Recebe uma matriz e verica se é um quadrado mágico, retornando '1', caso for, e '0', se não for.
