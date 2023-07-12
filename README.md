@@ -163,7 +163,7 @@ Recebe como parâmetro a letra palpite, a palavra secreta e uma string de result
 ### Função Segundo Maior
 Recebe como parâmetro um vetor de inteiros e seu tamanho, retorna o segundo maior elemento presente no vetor.
 
-## Matrizes - 04/07/23
+## Questão Matriz - 04/07/23
 ### Quadrado Mágico
 
 ## Ainda em atualização
